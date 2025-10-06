@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/fluency/48/arduino.png"/>
   <img src="https://img.icons8.com/color/48/pycharm--v2.png"/>
+  <img src="https://espressif.gallerycdn.vsassets.io/extensions/espressif/esp-idf-extension/1.9.0/1733825766020/Microsoft.VisualStudio.Services.Icons.Default"/>
   
 </p>
 
