@@ -33,7 +33,7 @@
 <table>
   <tr>
     <td width="100%">
-      <b>🔌 CAN Log Analyzer</b> &nbsp;<img src="https://img.shields.io/badge/status-work%20in%20progress-BA7517?style=flat-square" alt="Work in progress" /><br/>
+      <b>🔌 <a href="https://github.com/hi3rdt/can-log-analyzer">CAN Log Analyzer</a></b> &nbsp;<img src="https://img.shields.io/badge/status-work%20in%20progress-BA7517?style=flat-square" alt="Work in progress" /><br/>
       An <b>AUTOSAR-style MCAL written at register level</b> for the STM32F103 (Blue Pill, bxCAN):
       <code>Port</code>, <code>Dio</code>, <code>Can</code> and <code>Det</code>, unit-tested on a PC against fake registers.
       Alongside it, <b>DBC files reverse-engineered from real CAN logs</b> in SavvyCAN (periods, alive counters,
@@ -42,7 +42,8 @@
       <img src="https://img.shields.io/badge/MCU-STM32F103C8T6-03234B?logo=stmicroelectronics&logoColor=white" alt="STM32F103C8T6" />
       <img src="https://img.shields.io/badge/Bus-CAN%20%2F%20bxCAN-0F6E56" alt="CAN bxCAN" />
       <img src="https://img.shields.io/badge/Tools-SavvyCAN%20%C2%B7%20cantools-185FA5" alt="SavvyCAN and cantools" />
-      <img src="https://img.shields.io/badge/Tests-host%20unit%20tests%20%2B%20CI-5F5E5A?logo=githubactions&logoColor=white" alt="Host unit tests and CI" />
+      <img src="https://img.shields.io/badge/Tests-host%20unit%20tests%20%2B%20CI-5F5E5A?logo=githubactions&logoColor=white" alt="Host unit tests and CI" /><br/><br/>
+      <a href="https://github.com/hi3rdt/can-log-analyzer"><img src="https://img.shields.io/badge/View%20repository-hi3rdt%2Fcan--log--analyzer-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
     </td>
   </tr>
 </table>
